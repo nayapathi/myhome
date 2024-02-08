@@ -1,0 +1,14 @@
+ <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.chandra</groupId>
+    <artifactId>maven-web-application</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>chandraEnterpriseApp-ear</module>
+        <module>chandraEnterpriseApp-web</module>
+        <!-- Add additional modules as needed -->
+    </modules>
+</project
+
